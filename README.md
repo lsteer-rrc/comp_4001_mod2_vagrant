@@ -1,5 +1,5 @@
-# Studentportfoliotemplate
+# Lukas Steer Portfolio
 
-# This is a template for student portfolio website.
+## This is my portfolio for COMP_4001 module 2
 
-# All students must make modifications and use their images on the portfolio website to show that the you can do rapid development and rapid deployment for the purpose of the dev ops course we intend to use this for.
+Hello!
